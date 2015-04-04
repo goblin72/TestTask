@@ -4,7 +4,7 @@ Test task.
 It is a solution for the task described below.
 
 
-Requerements
+Requirements
 ============
 
 Here is the instructions for the 4-hour assessment task.
@@ -23,11 +23,11 @@ By using Apache HttpClient,JSoup (and regular expressions only if necessary), re
 https://wiki.ubuntu.com/ReleaseTeam
  
 It should include at least the following fields for each release:
-?      Version
-?      Code Name
-?      Docs
-?      Release date
-?      End of life date
+*      Version
+*      Code Name
+*      Docs
+*      Release date
+*      End of life date
 
 Print the parsed information in pretty format in console.
 Optional Question:Is there a way you can detect if the page structure has changed ?
